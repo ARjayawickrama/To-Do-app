@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo application</string>
+    <string name="welcome_message">Welcome to the Todo Application!</string>
+    <string name="alarm_set_message">Alarm has been set successfully</string>
+    <string name="error_message">An error occurred. Please try again.</string>
+
+    <!-- Stopwatch related strings -->
+    <string name="stopwatch_title">Stopwatch</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="reset_button">Reset</string>
+
+</resources>
